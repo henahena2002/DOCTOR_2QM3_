@@ -1,0 +1,20 @@
+body {
+            background-image: "/storage/emulated/0/Download/beabadoobee.jpeg;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover ; 
+            background-position: center;
+        }
+	img{ 
+        background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 250px;
+            background-position: center;
+	}
+   audio {
+            display: block;
+            margin: 10px auto;
+            width: 300px;
+        }
+    p{font-size: 130%;
+    }
